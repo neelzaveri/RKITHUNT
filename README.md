@@ -20,13 +20,16 @@ cd rkithunt
 chmod +x rkithunt.sh
 
 🚀 **Usage**
+
 Run the tool with root privileges for full detection:
 sudo ./rkithunt.sh
 
 🛠️ **Requirements**
+
 Linux system (tested on Debian/Ubuntu, compatible with most distros)
 Root privileges recommended for full scan
 
 ⚠️ **Disclaimer**
+
 RKitHunt is an auditing tool only. It does not remove or clean rootkits. If suspicious activity is detected, further investigation and system hardening are strongly recommended.
 #rootkit #rootkithunter #CyberTool #cybersecurity #forensictool #rootkit-hunter
