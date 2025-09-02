@@ -15,7 +15,7 @@ RKitHunt (Rootkit Hunter) is a lightweight Bash-based security auditing tool des
 
 Clone the repository and make the script executable:
 
-git clone https://github.com/neelzaveri/rkithunter.git
+git clone https://github.com/neelzaveri/RKITHUNT.git
 cd rkithunt
 chmod +x rkithunt.sh
 
